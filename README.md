@@ -1,4 +1,14 @@
-## Hi there 👋 It's great to meet you
+# Collin Bowdoin
+## Software Engineer, Student at Oregon Tech
+I'm a senior student at Oregon Institute of Technology [Oregon Tech](https://www.oit.edu/), located in the town of Klamath Falls in the western USA.
+I'm working towards a BS in Software Engineering Technology here, and will graduate in the Summer of 2025.  
+
+Visit my LinkedIn at [Collin Bowdoin](https://www.linkedin.com/in/collin-bowdoin/) and get in contact with me! I'd love to hear from you.
+
+My personal website and various portfolio projects are currently in development. You can view their progress in my Public Repositories here.
+
+>Write some inspirational coding quote here
+>-- Author
 
 <!--
 **IntricEight/IntricEight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
