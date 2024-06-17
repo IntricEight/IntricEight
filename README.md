@@ -7,8 +7,8 @@ Visit my LinkedIn at [Collin Bowdoin](https://www.linkedin.com/in/collin-bowdoin
 
 My personal website and various portfolio projects are currently in development. You can view their progress in my Public Repositories here.
 
->Write some inspirational coding quote here
->-- Author
+>Programming isn’t about what you know; it’s about what you can figure out.
+>-- Chris Pine, *Learn to Program*
 
 <!--
 **IntricEight/IntricEight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
