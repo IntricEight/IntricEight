@@ -1,7 +1,6 @@
 # Collin Bowdoin
-## Software Engineer, Student at Oregon Tech
-I'm a senior student at Oregon Institute of Technology [Oregon Tech](https://www.oit.edu/), located in the town of Klamath Falls in the western USA.
-I'm working towards a BS in Software Engineering Technology here, and will graduate in the Summer of 2025.  
+## Software Engineer | Application Developer
+I'm a newly graduated Software Engineer with a Bachelor of Science from the [Oregon Institute of Technology](https://www.oit.edu/) with an interest in designing advanced applications and integrating complex backend systems with the user experience.
 
 Visit my LinkedIn at [Collin Bowdoin](https://www.linkedin.com/in/collin-bowdoin/) and get in contact with me! I'd love to hear from you.
 
